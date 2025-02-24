@@ -10,6 +10,6 @@ This experimental work in the diagnosis of brain tumors using Magnetic Resonance
 
 This repository contains :
 1. A Jupyter Notebook for Model Creation and Evaluation.
-2. A ZIP file containing the Best_Model and Model Keras file.
+2. Two Model files uploaded by GitLFS containing the Best_Model and Model Keras file.
 
 Users can build better algorithms by building on these models for improved accuracy.
